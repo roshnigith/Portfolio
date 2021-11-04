@@ -1,0 +1,33 @@
+<html lang="en">
+
+  <header>
+    <title>Roshni Singh's Portal</title>
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut" href="favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name="name" content="Roshni Singh's Portal">
+    <meta name="robots" content="noindex,nofollow">
+  </header>
+
+  <body>
+    <img src="images/banner.jpg" width="75%" alt="banner">
+    <h3>Roshni Singh's Portal</h3>
+    <h2>About Me</h2>
+    <p>I'm a computer science engineering student in India.I am a front end developer with a keen interest in exploring latest technology</p>
+    <p>I completed my schooling from CBSE board</p>
+    <p>I have a bachelor's degreee from Noida Institute of Engineering and Technology</p>
+    <h2>Credentials and Portfolio</h2>
+
+    <p><a href="resume.html">My Resume</a>| <a href="https://github.com/roshnigith">My GitHub</a></p>
+    <h2>Contact</h2>
+
+    <p>Email: <a href="mailto:roshni81198singh@gmail.com">roshni81198singhgmail.com</a></p>
+  </body>
+
+  <footer>
+    <hr>
+    <code>Copyright (c) 2021 Roshni Singh</code>
+  </footer>
+
+</html>
