@@ -1,0 +1,60 @@
+<html lang="en">
+
+  <header>
+    <title>Roshni Singh's Resume</title>
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut" href="favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name="name" content="Roshni Singh's Portal">
+    <meta name="robots" content="noindex,nofollow">
+  </header>
+
+  <body>
+    <hr>
+
+    <img src="images/headshot.jpg" alt="Roshni singh's headshot" width="20%">
+
+    <h1>ROSHNI SINGH</h1>
+    <h4>Computer Science Engineering Student at NIET</h4>
+
+    <p>Email: <a href="mailto:roshni81198singh@gmail.com" target="_blank">roshni81198singh@gmail.com</a></p>
+    <!-- don't post physical address, personal phone number or other personal information on the web! -->
+
+    <h2>Portfolio</h2>
+      <h3>GitHub: <a href="https://github.com/roshnigith" target="_blank">https://github.com/roshnigith</a></h3>
+
+    <h2>Education</h2>
+
+    <h3>Noida Institute Of engineering and technology,Greater Noida</h3>
+    <h4>BTECH,Computer Science Engineering-GPA 8.3</h4>
+
+    <h2>Professional Experiences</h2>
+
+    <h3>worked with HTML/CSS/JS to create a quizappp</h3>
+    <h4>BTECH</h4>
+    <h5>May 2019 - 2023</h5>
+      <ul>
+        <li>PROJECTS INCLUDE--</li>
+        <li>template using HTML/CSS</li>
+        <li>Quizapp</li>
+        <li>Portfolio</li>
+      </ul>
+
+    <h3> Software Engineer</h3>
+    <h4>NIET'23,INDIA</h4>
+    <h5>may 2019 - Present</h5>
+      <ul>
+        <li>Qualifications--></li>
+        <li>10TH-SCHOOL->KV Umroi cantt,shillong->10 cgpa</li>
+        <li>12th-SCHOOL->KV AMC,lucknow cantt->90.04%</li>
+        <li>BTECH(CSE)-INSTITUTE->NIET,Greater Noida->8.3 sgpa(till 5thb semester)</li>
+      </ul>
+  </body>
+
+  <footer>
+  <hr>
+  <p><a href="index.html">Back to my portal</a><p>
+  </footer>
+
+</html>
